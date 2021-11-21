@@ -1,0 +1,6 @@
+==========================================================================
+pubkey: GtwS36HmXqCqLAmujgEjnoT5qLZ9V5YdenJxDmk5xdfk
+==========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+brass gesture act misery team humor burst opera misery school burden awake
+==========================================================================
